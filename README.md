@@ -9,8 +9,8 @@ A simple chat application. Made with React and Redux.
   4. Other pages = Not Done
 
 <p align="center">
-<img align="center" src="https://user-images.githubusercontent.com/38283518/110043990-bd03c880-7d8b-11eb-854e-becd32cce04a.png" alt="" height="200" width="150"/>
+<img src="https://user-images.githubusercontent.com/38283518/110043990-bd03c880-7d8b-11eb-854e-becd32cce04a.png" alt="" />
 
-<img align="center" src="https://user-images.githubusercontent.com/38283518/110043682-30f1a100-7d8b-11eb-88de-1431bc442de7.png" alt="" height="200" width="150"/>
-<img align="center" src="https://user-images.githubusercontent.com/38283518/110043718-41098080-7d8b-11eb-8aed-b3f76fdbc4f8.png" alt="" height="200" width="150"/>
+<img src="https://user-images.githubusercontent.com/38283518/110043682-30f1a100-7d8b-11eb-88de-1431bc442de7.png" alt="" />
+<img src="https://user-images.githubusercontent.com/38283518/110043718-41098080-7d8b-11eb-8aed-b3f76fdbc4f8.png" alt="" />
 </p>

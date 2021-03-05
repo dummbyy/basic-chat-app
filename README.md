@@ -2,6 +2,9 @@
 
 A simple chat application. Made with React and Redux.
 
+Live Preview: https://slack-clone-test-d9ba6.web.app
+
+
 #Done
   1. Authentication = Ok
   2. Fetching Messages&Channels = Ok

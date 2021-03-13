@@ -4,7 +4,6 @@ A simple chat application. Made with React and Redux.
 
 Live Preview: [Live Preview](https://slack-clone-test-d9ba6.web.app)
 
-# 🇺🇸 ENGLISH
 > Hello, this project has been developed by me. You can make changes and improve the codes as you wish, if you have a problem, you can contact me without hesitation [Discord](https://discord.com/users/752469034997514305).
 
 ## FEATURES

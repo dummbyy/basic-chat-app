@@ -2,18 +2,37 @@
 
 A simple chat application. Made with React and Redux.
 
-Live Preview: https://slack-clone-test-d9ba6.web.app
+Live Preview: [Live Preview](https://slack-clone-test-d9ba6.web.app)
 
+# 🇺🇸 ENGLISH
+> Hello, this project has been developed by me. You can make changes and improve the codes as you wish, if you have a problem, you can contact me without hesitation [Discord](https://discord.com/users/752469034997514305).
 
-#Done
-  1. Authentication = Ok
-  2. Fetching Messages&Channels = Ok
-  3. Write User infos to Database = Ok
-  4. Other pages = Not Done
+## FEATURES
+ - You can log in with your **Google** account.
+ - You can create a **room of your own**.
+ - You can talk to your friends or other people **simultaneously**.
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/38283518/110043990-bd03c880-7d8b-11eb-854e-becd32cce04a.png" alt="" />
+### Avantages - Disavantages
+ - [x] Uses Firebase
+ - [x] User friendly.
+ - [x] Simultaneous chatting.
+ - [x] Developable systems.
+ - [x] Possibility of getting a bug.
+ - [ ] All systems are working.
 
-<img src="https://user-images.githubusercontent.com/38283518/110043682-30f1a100-7d8b-11eb-88de-1431bc442de7.png" alt="" />
-<img src="https://user-images.githubusercontent.com/38283518/110043718-41098080-7d8b-11eb-8aed-b3f76fdbc4f8.png" alt="" />
-</p>
+## SETTINGS
+
+> const firebaseConfig = {
+>    /*
+>    
+>    FIRE BASE CONFIGS
+>    
+>   */
+> };
+
+## SETUP
+1. You must have `node.js` installed on your system.
+2. Open the directory you are in with the help of CMD.
+3. Install all modules. (`npm i`)
+4. Edit the contents of `firebase.js`.
+5. You are now ready.
